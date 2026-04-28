@@ -79,7 +79,7 @@ def style_base_layout():
                 
             button[kind="secondary"] {
                 border-radius: 1.5rem !important;
-                background: black !important;
+                background: red !important;
                 color: white !important;
                 padding: 10px 20px !important;
                 border: none !important
