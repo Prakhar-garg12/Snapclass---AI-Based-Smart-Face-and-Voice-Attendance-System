@@ -4,7 +4,7 @@ from src.database.config import supabase
 import time
 from PIL import Image
 
-@st.dialog("Capture or upload photot")
+@st.dialog("Capture or Upload photo")
 def add_photos_dialog():
       
       st.write('Add classroom photos to scan for attendance')
